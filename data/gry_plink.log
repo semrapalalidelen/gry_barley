@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf TasselTemplate005recode.vcf
+	--out gry_plink
+	--plink
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+After filtering, kept 188 out of 188 Individuals
+Writing PLINK PED and MAP files ... 
+Done.
+After filtering, kept 27166 out of a possible 27166 Sites
+Run Time = 2.00 seconds
